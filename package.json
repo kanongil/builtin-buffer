@@ -1,0 +1,22 @@
+{
+  "name": "@built-in/buffer",
+  "version": "0.0.0",
+  "description": "Alias for Node.js built-in 'node:buffer' module",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "buffer",
+    "node:buffer",
+    "built-in",
+    "alias",
+    "nodejs"
+  ],
+  "author": "Gil Pedersen <gpdev@gpost.dk>",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanongil/builtin-buffer.git"
+  }
+}
