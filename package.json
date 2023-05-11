@@ -1,6 +1,6 @@
 {
   "name": "@built-in/buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Alias for Node.js built-in 'node:buffer' module",
   "main": "index.js",
   "files": [
